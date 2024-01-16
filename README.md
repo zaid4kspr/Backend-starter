@@ -1,6 +1,7 @@
 ## Express.js server with TypeORM, PostgreSQL integration via Docker, and TypeScript configuration
 ![image](https://github.com/zaid4kspr/Backend-starter/assets/24481504/e63ba665-c413-4984-be28-03431ee2e19d)
 
+Apis: Login, register and me
 
 ## 💎 The Package Features
 
